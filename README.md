@@ -11,3 +11,17 @@ Deep learning model (e.g., CNN)
 Performance evaluation metrics
 
 Visualization of model performance
+
+# Usage
+
+1. Clone the repository
+2. Open the Jupyter Notebook
+3. Follow the steps in the notebook to preprocess data, train the model, and evaluate performance.
+
+# Dataset
+
+The provided dataset is taken from kaggle website.
+
+# Results
+
+Succesfully implemented detection of Alzheimer's with the help of provided data and achieved an accuracy of 79% using KNN Algorithm and 70% accuracy using Logistic regression algorithm
