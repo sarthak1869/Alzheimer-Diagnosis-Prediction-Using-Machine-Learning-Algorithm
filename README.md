@@ -1,6 +1,6 @@
 # Alzheimer-Diagnosis-Prediction-Using-Machine-Learning-Algorithm
 
-# This project focuses on detecting Alzheimer’s disease using machine learning. The model is implemented in a Jupyter Notebook (Alzheimer_detection.ipynb) and uses machine learning techniques to classify detect Alzheimer's.
+# This project focuses on detecting Alzheimer’s disease using machine learning. The model is implemented in a Jupyter Notebook (Alzheimer_detection.ipynb) and uses machine learning techniques to classify and detect Alzheimer's.
 
 # Features
 
