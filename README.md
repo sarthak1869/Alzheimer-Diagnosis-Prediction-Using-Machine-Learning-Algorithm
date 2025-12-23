@@ -24,5 +24,15 @@ The provided dataset is taken from kaggle website.
 
 # Results
 
-Succesfully implemented detection of Alzheimer's with the help of provided data and achieved an accuracy of 79% using KNN Algorithm and 70% accuracy using Logistic regression algorithm
+Multiple machine learning models were trained and evaluated for Alzheimer’s disease detection using the provided dataset. The performance of each model was compared based on accuracy.
+
+Logistic Regression achieved an accuracy of 71%
+
+K-Nearest Neighbors (KNN) achieved an accuracy of 79%
+
+Decision Tree and Random Forest models were also implemented to analyze model behavior and performance
+
+Ensemble learning techniques such as AdaBoost and XGBoost were applied to improve prediction accuracy
+
+Among all the models, XGBoost delivered the best performance with an accuracy of 81%, making it the most effective model for this task.
 
